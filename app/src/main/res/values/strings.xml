@@ -1,0 +1,12 @@
+<resources>
+
+
+    <string name="hello_world">Hello world!</string>
+
+
+    <string name="app_name">SMS_to_Web_App_Forwarder</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tv_txt">An App for forwarding Data to the Candidates who have enquired about the Various Training Programs</string>
+</resources>
